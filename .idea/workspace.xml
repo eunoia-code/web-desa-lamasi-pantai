@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="239e360b-94b7-4bfa-93f3-982f228ade37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web-desa-lamasi-pantai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/peternakan/berita-peternakan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kependudukan.html" beforeDir="false" afterPath="$PROJECT_DIR$/kependudukan.html" afterDir="false" />
-    </list>
+    <list default="true" id="239e360b-94b7-4bfa-93f3-982f228ade37" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631034680688</updated>
       <workItem from="1631034685229" duration="5838000" />
+      <workItem from="1631059775443" duration="283000" />
     </task>
     <servers />
   </component>
