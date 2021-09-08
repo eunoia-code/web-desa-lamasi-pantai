@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="239e360b-94b7-4bfa-93f3-982f228ade37" name="Changes" comment="" />
+    <list default="true" id="239e360b-94b7-4bfa-93f3-982f228ade37" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/agenda.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/agenda.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/aparat_pemerintah_desa.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/aparat_pemerintah_desa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/buku_peraturan_desa.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/buku_peraturan_desa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/ekspedisi.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/ekspedisi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/inventaris_kekayaan_desa.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/inventaris_kekayaan_desa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/keputusan_kepala_desa.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/keputusan_kepala_desa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/lembaran_desa_berita_desa.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/lembaran_desa_berita_desa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/tanah_desa.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/tanah_desa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/administrasi/umum/tanah_kas_desa.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/administrasi/umum/tanah_kas_desa.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,11 +59,26 @@
       <updated>1631034680688</updated>
       <workItem from="1631034685229" duration="5838000" />
       <workItem from="1631059775443" duration="283000" />
+      <workItem from="1631084973288" duration="575000" />
+      <workItem from="1631085566410" duration="1831000" />
+      <workItem from="1631142007790" duration="1928000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
