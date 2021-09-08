@@ -626,3 +626,71 @@ select:not([multiple]) {
 
     .tm-social-links li { margin-right: 3px; }
 }
+
+
+
+/* css dari Sakina Maida Putri */
+.nav {
+        list-style: none;
+        float: left;
+        padding-top: 5px;
+        
+    position: relative;
+    z-index: 999;
+    }
+    .nav li {
+        display: inline-block;
+        position: relative;
+        float: left;
+        background: white;
+    }
+    .nav li a {
+        display: inline-block;
+        width: 200px;
+        line-height: 20px;
+        text-decoration: none;
+        color: black;
+    }
+    .nav li li {
+        float: left;
+    }
+    .nav li li a {
+        display: block;
+    }
+    .nav li:hover {
+        background: #87CEFA;
+    }
+    .nav ul {
+        position: absolute;
+        left: 0;
+        padding: 0;
+        display: none;
+    }
+    .nav li:hover ul ul {
+        display: none;
+    }
+    .nav li:hover ul ul ul {
+        display: none;
+    }
+    .nav li:hover ul {
+        display: block;
+    }
+    .nav li li:hover ul {
+        margin-top: -41px;
+        margin-left: 200px;
+        display: block;
+    }
+    .nav li li li:hover ul {
+        margin-top: -10px;
+        margin-left: 5px;
+        display: block;
+        background: black;
+    }
+
+
+.nav {
+    list-style: none;
+    float: left;
+    position: relative;
+    z-index: 999;
+}
